@@ -1,0 +1,8 @@
+#divCanvas {
+	width: 350px;
+    margin: 0 auto;
+}
+
+canvas {	
+	border: 1px solid black;
+}
